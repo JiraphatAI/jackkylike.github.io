@@ -1,0 +1,1 @@
+const firebaseConfig = { apiKey: 'XXXX', authDomain: 'jackkylike.firebaseapp.com', projectId: 'jackkylike', storageBucket: 'XXXX', messagingSenderId: 'XXXX', appId: 'XXXX' }; firebase.initializeApp(firebaseConfig);
